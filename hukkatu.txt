@@ -1,0 +1,6 @@
+# first_repo== JAVA
+public class Aya{
+ pubulic static void main(String args[]){
+  System.out.println("こんにちは");
+  }
+}
